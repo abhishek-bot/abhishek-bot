@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhishek-bot
-- 👀 I’m interested in Java-angular applications
-- 🌱 I’m currently learning Springboot
-- 💞️ I’m looking to collaborate on Spring backend api's
+- 👀 I’m interested in Gen-ai applications
+- 🌱 I’m currently learning applied Gen ai
+- 💞️ I’m looking to collaborate on projects implementing Gen-ai
 - 📫 How to reach me https://www.linkedin.com/in/abhishek-kumar-03a96416b/
 
 <!---
